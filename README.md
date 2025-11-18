@@ -35,7 +35,7 @@ Hi, I’m Yug Patel 👋<br>💻 Passionate about Full-Stack Development and cre
 ### 👨‍💻 About Me
 
 - 💡 I’m a passionate developer who loves building impactful solutions using cutting-edge technologies.
-- 🚀 Always learning, always coding — I believe in continuous growth and making a positive impact through tech.
+- 🚀 Always learning, always coding I believe in continuous growth and making a positive impact through tech.
 - 💻 Most comfortable with full-stack development and modern web technologies.
 
 ---
