@@ -112,7 +112,7 @@ Hi, I’m Yug Patel 👋<br>💻 Passionate about Full-Stack Development and cre
 
 ## 👨‍💻 About Me
 
-I'm a Computer Engineering student focused on building my career in
+I'm a IT student focused on building my career in
 **Data Science and Artificial Intelligence**.
 
 Currently, I'm working as a **Data Scientist & AI Engineer Intern**, where
