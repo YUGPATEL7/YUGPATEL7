@@ -170,47 +170,6 @@ my understanding of real-world problems.
 </p>
 
 ---
-
-## 📚 Data Science Journey
-
-I'm documenting my Data Science learning journey here:
-
-### 🐍 Python
-- Python fundamentals
-- Conditional statements
-- Loops
-- Arrays & 2D arrays
-- Dictionaries
-- Strings
-- Functions
-- Modules
-- Exception handling
-- Regular expressions
-- File handling
-- CRUD operations
-- Practical mini-projects
-
-### 🧱 Object-Oriented Programming
-- Classes & objects
-- Inheritance
-- Encapsulation
-- Practical OOP exercises
-
-### 📊 Data Science Foundations
-- NumPy
-- Pandas
-- Data cleaning
-- Data manipulation
-- Exploratory data analysis
-
-### 🤖 Next Step
-- Machine Learning
-- Model evaluation
-- Feature engineering
-- Real-world ML projects
-
----
-
 ## 🌟 Featured Projects
 
 ### 📊 Data Science Journey
@@ -258,6 +217,14 @@ strong programming fundamentals, statistical thinking, data analysis,
 machine learning, and practical project experience.
 
 ---
+<details>
+  <summary>More about me</summary>
+  <ul>
+    <li>I’m focused on building, shipping, and improving digital products.</li>
+    <li>When I’m not coding, I’m usually... well, still coding! 😄</li>
+    <li>This is all about me. Let’s connect and build something awesome!</li>
+  </ul>
+</details>
 
 ## 🤝 Let's Connect
 
