@@ -24,7 +24,7 @@ Hi, I’m Yug Patel 👋<br>💻 Passionate about Full-Stack Development and cre
 
 
 <!-- YUGPATEL7's GitHub Profile README -->
-
+<!--
 <h1 align="center">Hi there 👋, I'm Yug Patel</h1>
 <p align="center">
   <b>Developer | Continuous Learner | Tech Enthusiast</b>
@@ -93,4 +93,177 @@ Hi, I’m Yug Patel 👋<br>💻 Passionate about Full-Stack Development and cre
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YUGPATEL7&show_icons=true&theme=github_dark" alt="YUGPATEL7's GitHub stats"/>
+</p>
+-->
+
+<h1 align="center">Hi 👋, I'm Yug Patel</h1>
+
+<p align="center">
+  <b>Data Science & AI Intern | Python | Machine Learning | Continuous Learner</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yug-patel7/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Computer Engineering student focused on building my career in
+**Data Science and Artificial Intelligence**.
+
+Currently, I'm working as a **Data Scientist & AI Engineer Intern**, where
+I'm continuing to strengthen my programming, data analysis, and machine
+learning skills through practical work.
+
+My current learning path:
+
+**Python → OOP → NumPy → Pandas → Data Analysis → Machine Learning → AI**
+
+I believe in learning by building, experimenting, and continuously improving
+my understanding of real-world problems.
+
+---
+
+## 🚀 What I'm Currently Learning
+
+- 🐍 Python for Data Science
+- 🔢 NumPy
+- 🐼 Pandas
+- 📊 Data Analysis & EDA
+- 🤖 Machine Learning
+- 🧠 Artificial Intelligence
+- 🗄️ SQL & Database Concepts
+- 📈 Data Visualization
+
+---
+
+## 🛠️ Tech Stack
+
+### Data Science & AI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**Python • NumPy • Pandas • Machine Learning • Data Analysis**
+
+### Programming
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,c,cpp" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,tailwind" />
+</p>
+
+---
+
+## 📚 Data Science Journey
+
+I'm documenting my Data Science learning journey here:
+
+### 🐍 Python
+- Python fundamentals
+- Conditional statements
+- Loops
+- Arrays & 2D arrays
+- Dictionaries
+- Strings
+- Functions
+- Modules
+- Exception handling
+- Regular expressions
+- File handling
+- CRUD operations
+- Practical mini-projects
+
+### 🧱 Object-Oriented Programming
+- Classes & objects
+- Inheritance
+- Encapsulation
+- Practical OOP exercises
+
+### 📊 Data Science Foundations
+- NumPy
+- Pandas
+- Data cleaning
+- Data manipulation
+- Exploratory data analysis
+
+### 🤖 Next Step
+- Machine Learning
+- Model evaluation
+- Feature engineering
+- Real-world ML projects
+
+---
+
+## 🌟 Featured Projects
+
+### 📊 Data Science Journey
+My structured journey from Python fundamentals to Data Science and
+Machine Learning.
+
+🔗 [View Repository](https://github.com/YUGPATEL7/data-science-journey)
+
+---
+
+### 🔐 Password Manager
+A password management application focused on securely storing and
+managing passwords.
+
+🔗 [View Repository](https://github.com/YUGPATEL7/password-manager)
+
+---
+
+### 🛠️ Dev Snippets
+A collection of useful code snippets and development references.
+
+🔗 [View Repository](https://github.com/YUGPATEL7/Dev-snippets)
+
+---
+
+### 🎨 Ochi
+A frontend project focused on modern UI/UX and responsive design.
+
+🔗 [View Repository](https://github.com/YUGPATEL7/ochi)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YUGPATEL7&show_icons=true&theme=github_dark" />
+</p>
+
+---
+
+## 🎯 My Goal
+
+To become a strong **Data Scientist & AI Engineer** by combining
+strong programming fundamentals, statistical thinking, data analysis,
+machine learning, and practical project experience.
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/yug-patel7/
+- 🐙 GitHub: https://github.com/YUGPATEL7
+
+<p align="center">
+  <i>Learning. Building. Improving. 🚀</i>
 </p>
